@@ -1,0 +1,12 @@
+#Construir un sitio Web 
+## Tema libre.
+ -Ejemplo: deportes, películas, música, etc
+ -Generación de CSS 
+#La Web deberá construir utilizando HTML semántico.
+ -Ejemplo:(<head><main><nav><footer>). 
+##El proyecto debe considerar:
+-Ejemplo: imágenes, tablas, enlaces, formularios y footer con contacto para redes sociales.
+-Todo el contenido estará dentro del archivo index.html (raíz del proyecto).
+## Creare un archivo de estilos y lo guardare en la carpeta CSS.
+## creare un archivo de funciones y almacenare en la carpeta JS
+#El proyecto deberá contener como mínimo 5 commit antes de subir a GITHUB
